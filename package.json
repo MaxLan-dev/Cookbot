@@ -1,0 +1,23 @@
+{
+  "name": "cookbot",
+  "version": "1.0.0",
+  "description": "A bot for studnets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxLan-dev/Cookbot.git"
+  },
+  "keywords": [
+    "Bot",
+    "Telegram"
+  ],
+  "author": "EbemSobak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxLan-dev/Cookbot/issues"
+  },
+  "homepage": "https://github.com/MaxLan-dev/Cookbot#readme"
+}
