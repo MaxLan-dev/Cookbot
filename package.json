@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MaxLan-dev/Cookbot/issues"
   },
-  "homepage": "https://github.com/MaxLan-dev/Cookbot#readme"
+  "homepage": "https://github.com/MaxLan-dev/Cookbot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
 }
